@@ -1,0 +1,14 @@
+{
+  "name": "edu-games",
+  "version": "1.0.0",
+  "description": "Конструктор учебных заданий: пазл, найди пару, классификация, викторина",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
